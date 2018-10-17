@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css?family=Mrs+Sheppards|Raleway:100|Roboto:100");
+
+#heading {
+  font-family: "Mrs Sheppards", cursive;
+  font-size: 40vw;
+  text-align: center;
+  margin: 0px;
+}
+
+#heading2 {
+  font-family: "Raleway", sans-serif;
+  font-size: 3vw;
+  text-align: center;
+  line-height: 600%;
+}
+
+img {
+  display: inline-block;
+  margin: 7.5vw;
+  width: 80vw;
+}
+
+iframe {
+  margin: 8vw;
+}
+
+div a {
+  font-size: 12vw;
+  padding: 10vw;
+  color: white;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 4vw;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+  url(https://images6.alphacoders.com/420/420903.jpg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
